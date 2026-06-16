@@ -32,12 +32,12 @@ Status     : Actively building portfolio & seeking opportunities
 
 I am a self-driven professional transitioning from a **Commerce background** into **Cloud & DevOps Engineering**. My approach is portfolio-first — every concept I learn gets translated into a hands-on project on GitHub. I believe real skills are built by doing, not just studying.
 
-- 🔧 Building real-world infrastructure projects on **AWS**
+- ☁️ **AWS completed** — hands-on with EC2, S3, VPC, IAM, Load Balancers & more
 - 🐧 Strong foundation in **Linux administration & Bash scripting**
+- ⚙️ Actively working through the full **DevOps toolchain** — Docker, Terraform, Jenkins, Ansible
+- ☸️ Currently learning **Kubernetes** for container orchestration
 - 🤖 Automating cloud workflows with **Python (Boto3)**
-- 🔁 Learning **CI/CD pipelines** with Jenkins + Docker
-- 📦 Provisioning infrastructure as code with **Terraform**
-- 📈 Every project is public, documented, and production-minded
+- 📈 Portfolio-driven learner — every concept gets turned into a real project
 
 ---
 
@@ -57,6 +57,7 @@ I am a self-driven professional transitioning from a **Commerce background** int
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 💻 Languages & Scripting
@@ -92,30 +93,33 @@ I am a self-driven professional transitioning from a **Commerce background** int
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 🔹 [File Organizer — Bash Automation](https://github.com/anshu-sharma-devops/file-organizer)
+### ✅ Completed — AWS Practice Projects
 
-> **Tech Stack:** `Bash` `Linux` `Shell Scripting`
+> *These projects were completed as hands-on learning labs to solidify AWS fundamentals. GitHub documentation coming soon.*
 
-A production-minded Bash script that automates file organization by extension — demonstrating real-world Linux automation, clean scripting practices, and file system management.
+| # | Project | Stack | Highlights |
+|---|---|---|---|
+| 01 | AWS EC2 Auto-Provisioning | Python · Boto3 · AWS | Automated instance launch, stop & terminate via scripts |
+| 02 | Static Website Hosting on S3 | AWS S3 · Route 53 | Public static site with custom domain routing |
+| 03 | Load Balancer with Multi-EC2 Setup | AWS ELB · EC2 | Distributed traffic across multiple EC2 instances |
+| 04 | VPC Architecture (Public & Private Subnets) | AWS VPC · IAM · Security Groups | Designed secure network with bastion host access |
 
-✅ Categorizes files by type automatically  
-✅ Built for reusability and portability across Linux environments  
-✅ Fully documented with usage instructions  
+> 📌 *Uploading documented versions to GitHub progressively — watch this space.*
 
 ---
 
-### 🔜 Projects In Progress
+### 🔄 DevOps Projects — In Progress
 
 | # | Project | Stack | Status |
 |---|---|---|:---:|
-| 01 | AWS EC2 Auto-Provisioning | Python · Boto3 · AWS | 🔄 Building |
-| 02 | Static Website Hosting on S3 | AWS S3 · Route 53 | 🔄 Building |
-| 03 | Load Balancer with Multi-EC2 Setup | AWS ELB · EC2 | 🔄 Building |
-| 04 | VPC Architecture (Public & Private Subnets) | AWS VPC · IAM | 🔄 Building |
-| 05 | CI/CD Pipeline with Jenkins + Docker | Jenkins · Docker · GitHub | 📅 Planned |
-| 06 | Infrastructure as Code with Terraform | Terraform · AWS | 📅 Planned |
+| 01 | Dockerized Multi-Container App | Docker · Docker Compose | 🔄 In Progress |
+| 02 | CI/CD Pipeline with Jenkins + Docker | Jenkins · Docker · GitHub | 🔄 In Progress |
+| 03 | Infrastructure as Code with Terraform | Terraform · AWS | 🔄 In Progress |
+| 04 | Configuration Management with Ansible | Ansible · Linux · AWS | 🔄 In Progress |
+| 05 | Kubernetes Cluster Deployment | Kubernetes · Docker · AWS EKS | 🔄 In Progress |
+| 06 | Full DevOps Pipeline (End-to-End) | Jenkins · Docker · Terraform · K8s | 📅 Planned |
 
 ---
 
@@ -153,17 +157,24 @@ A production-minded Bash script that automates file organization by extension �
 ## 🧠 Current Learning Roadmap
 
 ```
-2025 Q3 ──────────────────────────────────────────────────────────────▶
-  │
+PHASE 1 — Cloud Foundations          ██████████████████████  ✅ COMPLETE
   ├── ✅ Linux Fundamentals & Bash Scripting
-  ├── ✅ AWS Core Services (EC2, S3, VPC, IAM)
-  ├── 🔄 AWS Cloud Practitioner Certification
+  ├── ✅ AWS Core Services (EC2, S3, VPC, IAM, ELB)
+  ├── ✅ AWS Hands-on Projects (EC2, S3, VPC, Load Balancer)
+  └── ✅ Python Automation with Boto3
+
+PHASE 2 — DevOps Toolchain           ████████████░░░░░░░░░░  🔄 IN PROGRESS
   ├── 🔄 Docker & Containerization
-  ├── 🔄 Python Automation (Boto3)
-  ├── 📅 Jenkins CI/CD Pipelines
-  ├── 📅 Terraform (Infrastructure as Code)
-  ├── 📅 Ansible (Configuration Management)
-  └── 📅 AWS Solutions Architect – Associate
+  ├── 🔄 Jenkins CI/CD Pipelines
+  ├── 🔄 Terraform (Infrastructure as Code)
+  ├── 🔄 Ansible (Configuration Management)
+  └── 🔄 Kubernetes (Container Orchestration)
+
+PHASE 3 — Certification & Mastery    ░░░░░░░░░░░░░░░░░░░░░░  📅 UPCOMING
+  ├── 📅 AWS Cloud Practitioner Certification
+  ├── 📅 AWS Solutions Architect – Associate
+  ├── 📅 End-to-End DevOps Pipeline Project
+  └── 📅 Kubernetes (CKA) Certification
 ```
 
 ---
@@ -172,10 +183,9 @@ A production-minded Bash script that automates file organization by extension �
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshu_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-sharma-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshu_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshu-sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-anshu--sharma--devops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshu-sharma-devops)
 [![Email](https://img.shields.io/badge/Email-anshusharma9103@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshusharma9103@gmail.com)
-
 
 <br>
 
