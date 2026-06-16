@@ -174,7 +174,7 @@ A production-minded Bash script that automates file organization by extension â€
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshu_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-sharma-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-anshu--sharma--devops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshu-sharma-devops)
-[![Email](https://img.shields.io/badge/Email-Connect_With_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](Anshusharma9103@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anshusharma9103@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshusharma9103@gmail.com)
 
 
 <br>
