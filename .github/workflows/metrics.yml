@@ -13,7 +13,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: anshu-sharma-devops
           template: classic
           base: header, activity, community, repositories, metadata
