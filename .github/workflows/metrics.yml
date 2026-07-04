@@ -20,5 +20,13 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           config_timezone: Asia/Kolkata
+          output_action: commit
           committer_branch: output
           filename: github-metrics.svg
+          extras_css: |
+            body, .card, .octicon { background-color: #0D1117 !important; }
+            body { color: #C9D1D9 !important; }
+            h2, h3, .repo-star-icon, .field-value { color: #F7971E !important; }
+            a { color: #F7971E !important; }
+            .field { color: #C9D1D9 !important; }
+            hr, .border { border-color: #F7971E !important; }
