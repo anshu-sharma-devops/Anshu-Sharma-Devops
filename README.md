@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Anshu Sharma
 
-### ☁️ Aspiring Cloud & DevOps Engineer
+### ☁️ Cloud & DevOps Engineer
 ### *"Building the future, one pipeline at a time."*
 
 <br>
@@ -22,7 +22,7 @@
 
 ```yaml
 Name       : Anshu Sharma
-Role       : Aspiring Cloud & DevOps Engineer
+Role       : Cloud & DevOps Engineer
 Location   : India 🇮🇳
 Background : Commerce → Cloud & DevOps (Career Pivot)
 Focus      : AWS · Linux · Docker · Terraform · Jenkins · Ansible · Python
@@ -35,9 +35,10 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - ☁️ Hands-on experience with AWS services including EC2, VPC, IAM, S3, Route53, Load Balancer, Auto Scaling, RDS, CloudWatch, Lambda, SQS, SNS and EKS.
 - 🐧 Comfortable working with Linux systems, shell scripting, package management, networking and server administration tasks.
 - ⚙️ Built hands-on projects using Docker, Terraform, Jenkins and Ansible for automation and deployment workflows.
-- ☸️ Currently learning **Kubernetes** for container orchestration
+- ☸️ Building hands-on experience with Kubernetes deployments, services and container orchestration.
 - 🐍 Automating cloud workflows with **Python (Boto3)**
 - 📁 Portfolio-driven learner — every concept gets turned into a real project
+- 📄 Every project is published on GitHub with documentation, architecture diagrams and troubleshooting notes.
 
 ---
 
@@ -86,6 +87,7 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Built CI/CD pipelines using Jenkins.
 - Automated application deployment using Docker containers.
 - Published complete documentation and architecture on GitHub.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
 
 ### 2. AWS Three-Tier Capstone Architecture
 **VPC | EC2 | RDS | Route53 | Load Balancer**
@@ -93,6 +95,7 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Deployed application servers behind a load balancer.
 - Integrated private MySQL database layer.
 - Configured DNS routing using Route53.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
 
 ### 3. Kubernetes Application Deployment Platform
 **Kubernetes | Docker | AWS**
@@ -100,18 +103,50 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Managed application rollout and updates.
 - Worked with pods, namespaces and scaling operations.
 - Deployed containerized applications on Kubernetes clusters.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
 
 ### 4. Remote Terraform State Infrastructure
 **Terraform | S3 | DynamoDB**
 - Configured centralized Terraform state storage.
 - Implemented state locking using DynamoDB.
 - Improved collaboration and infrastructure consistency.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
 
 ### 5. Enterprise Infrastructure Evolution Project
 **Virtualization → Cloud → DevOps → Kubernetes**
 - Long-term portfolio project representing complete infrastructure evolution.
 - Covers migration from traditional infrastructure to cloud-native platforms.
 - Includes Terraform, Jenkins, Docker, Kubernetes, monitoring and automation tooling.
+
+---
+
+## 🧭 Infrastructure Journey
+
+<div align="center">
+
+```
+Physical Infrastructure
+        ↓
+Virtual Machines
+        ↓
+Cloud Infrastructure (AWS)
+        ↓
+Infrastructure as Code (Terraform)
+        ↓
+Configuration Management (Ansible)
+        ↓
+CI/CD Pipelines (Jenkins)
+        ↓
+Containers (Docker)
+        ↓
+Container Orchestration (Kubernetes)
+        ↓
+Monitoring and Observability
+        ↓
+Cloud Native Platforms
+```
+
+</div>
 
 ---
 
@@ -122,20 +157,40 @@ I am a self-driven professional transitioning from a **Commerce background** int
 <img src="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=FFFFFF" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=FFFFFF" width="42%" />
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-sharma-devops&theme=radical&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E" width="60%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu-sharma-devops&theme=react-dark&bg_color=0D1117&color=F7971E&line=F7971E&point=FFFFFF&hide_border=true" width="95%" />
+
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/anshu-sharma-devops/anshu-sharma-devops/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚙️ **To activate the snake:** Go to your repo → Actions tab → Enable workflows → Run the `Generate Snake` action. [Setup guide here →](https://github.com/Platane/snk)
 
 ---
 
 ## 📈 Learning Progress
 
 ✔ 20+ AWS Hands-On Labs Completed
-✔ 5 Terraform Projects Completed
-✔ 5 Docker Projects Completed
-✔ 4 Jenkins Projects Completed
-✔ 3 Ansible Projects Completed
+✔ 8+ Terraform Projects Completed
+✔ 6+ Docker Projects Completed
+✔ 4+ Jenkins Projects Completed
+✔ 3+ Ansible Projects Completed
 ✔ Multiple Kubernetes Deployments Completed
 ✔ 10+ Projects Published on GitHub
-✔ Every project documented with README and screenshots
+✔ Every project documented with README files, screenshots and troubleshooting notes
 
 ---
 
@@ -156,10 +211,10 @@ PHASE 2 — DevOps Toolchain           ████████████░�
   └── ☸️ Kubernetes (Container Orchestration)
 
 PHASE 3 — Certification & Mastery    ░░░░░░░░░░░░░░░░░░░░░░  🔜 UPCOMING
-  ├── 📘 AWS Cloud Practitioner Certification
   ├── 📗 AWS Solutions Architect – Associate
-  ├── 🔄 End-to-End DevOps Pipeline Project
-  └── ☸️ Kubernetes (CKA) Certification
+  ├── ☸️ Certified Kubernetes Administrator (CKA)
+  ├── 📊 Prometheus and Grafana Monitoring
+  └── 🔄 Production-Grade DevOps Platform Project
 ```
 
 ---
