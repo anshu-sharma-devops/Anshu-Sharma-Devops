@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Anshu Sharma
 
-### 🚀 Aspiring Cloud & DevOps Engineer
+### ☁️ Aspiring Cloud & DevOps Engineer
 ### *"Building the future, one pipeline at a time."*
 
 <br>
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 About Me
+## 🧑‍💻 About Me
 
 ```yaml
 Name       : Anshu Sharma
@@ -32,12 +32,12 @@ Status     : Actively building portfolio & seeking opportunities
 
 I am a self-driven professional transitioning from a **Commerce background** into **Cloud & DevOps Engineering**. My approach is portfolio-first — every concept I learn gets translated into a hands-on project on GitHub. I believe real skills are built by doing, not just studying.
 
-- ☁️ **AWS completed** — hands-on with EC2, S3, VPC, IAM, Load Balancers & more
-- 🐧 Strong foundation in **Linux administration & Bash scripting**
-- ⚙️ Actively working through the full **DevOps toolchain** — Docker, Terraform, Jenkins, Ansible
+- ☁️ Hands-on experience with AWS services including EC2, VPC, IAM, S3, Route53, Load Balancer, Auto Scaling, RDS, CloudWatch, Lambda, SQS, SNS and EKS.
+- 🐧 Comfortable working with Linux systems, shell scripting, package management, networking and server administration tasks.
+- ⚙️ Built hands-on projects using Docker, Terraform, Jenkins and Ansible for automation and deployment workflows.
 - ☸️ Currently learning **Kubernetes** for container orchestration
-- 🤖 Automating cloud workflows with **Python (Boto3)**
-- 📈 Portfolio-driven learner — every concept gets turned into a real project
+- 🐍 Automating cloud workflows with **Python (Boto3)**
+- 📁 Portfolio-driven learner — every concept gets turned into a real project
 
 ---
 
@@ -47,10 +47,6 @@ I am a self-driven professional transitioning from a **Commerce background** int
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ⚙️ DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,7 +54,6 @@ I am a self-driven professional transitioning from a **Commerce background** int
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,56 +65,53 @@ I am a self-driven professional transitioning from a **Commerce background** int
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
 
 ---
 
-## 🏅 Certifications & Learning Badges
+## 📜 Certifications
 
-<div align="center">
-
-| Badge | Certification | Status |
-|:---:|---|:---:|
-| ☁️ | **AWS Certified Cloud Practitioner** | 🔄 In Progress |
-| 🐧 | **Linux Essentials (LPI)** | 🔄 In Progress |
-| 🛠️ | **AWS Solutions Architect – Associate** | 📅 Planned |
-| 🐳 | **Docker Foundations** | 📅 Planned |
-
-> 🎯 *Certifications in active pursuit — committed to validating skills with industry credentials.*
-
-</div>
+- 📘 Preparing for AWS Solutions Architect Associate
+- 📗 Preparing for Linux Essentials (LPI)
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-### ✅ Completed — AWS Practice Projects
+### 1. Multi-EC2 CI/CD Web Deployment Platform
+**Terraform | Jenkins | Ansible | Docker | AWS**
+- Provisioned infrastructure using Terraform.
+- Configured EC2 servers using Ansible.
+- Built CI/CD pipelines using Jenkins.
+- Automated application deployment using Docker containers.
+- Published complete documentation and architecture on GitHub.
 
-> *These projects were completed as hands-on learning labs to solidify AWS fundamentals. GitHub documentation coming soon.*
+### 2. AWS Three-Tier Capstone Architecture
+**VPC | EC2 | RDS | Route53 | Load Balancer**
+- Designed secure public and private subnet architecture.
+- Deployed application servers behind a load balancer.
+- Integrated private MySQL database layer.
+- Configured DNS routing using Route53.
 
-| # | Project | Stack | Highlights |
-|---|---|---|---|
-| 01 | AWS EC2 Auto-Provisioning | Python · Boto3 · AWS | Automated instance launch, stop & terminate via scripts |
-| 02 | Static Website Hosting on S3 | AWS S3 · Route 53 | Public static site with custom domain routing |
-| 03 | Load Balancer with Multi-EC2 Setup | AWS ELB · EC2 | Distributed traffic across multiple EC2 instances |
-| 04 | VPC Architecture (Public & Private Subnets) | AWS VPC · IAM · Security Groups | Designed secure network with bastion host access |
+### 3. Kubernetes Application Deployment Platform
+**Kubernetes | Docker | AWS**
+- Created deployments and services.
+- Managed application rollout and updates.
+- Worked with pods, namespaces and scaling operations.
+- Deployed containerized applications on Kubernetes clusters.
 
-> 📌 *Uploading documented versions to GitHub progressively — watch this space.*
+### 4. Remote Terraform State Infrastructure
+**Terraform | S3 | DynamoDB**
+- Configured centralized Terraform state storage.
+- Implemented state locking using DynamoDB.
+- Improved collaboration and infrastructure consistency.
 
----
-
-### 🔄 DevOps Projects — In Progress
-
-| # | Project | Stack | Status |
-|---|---|---|:---:|
-| 01 | Dockerized Multi-Container App | Docker · Docker Compose | 🔄 In Progress |
-| 02 | CI/CD Pipeline with Jenkins + Docker | Jenkins · Docker · GitHub | 🔄 In Progress |
-| 03 | Infrastructure as Code with Terraform | Terraform · AWS | 🔄 In Progress |
-| 04 | Configuration Management with Ansible | Ansible · Linux · AWS | 🔄 In Progress |
-| 05 | Kubernetes Cluster Deployment | Kubernetes · Docker · AWS EKS | 🔄 In Progress |
-| 06 | Full DevOps Pipeline (End-to-End) | Jenkins · Docker · Terraform · K8s | 📅 Planned |
+### 5. Enterprise Infrastructure Evolution Project
+**Virtualization → Cloud → DevOps → Kubernetes**
+- Long-term portfolio project representing complete infrastructure evolution.
+- Covers migration from traditional infrastructure to cloud-native platforms.
+- Includes Terraform, Jenkins, Docker, Kubernetes, monitoring and automation tooling.
 
 ---
 
@@ -130,31 +122,24 @@ I am a self-driven professional transitioning from a **Commerce background** int
 <img src="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&icon_color=F7971E&text_color=FFFFFF" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7971E&text_color=FFFFFF" width="42%" />
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-sharma-devops&theme=radical&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E" width="60%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu-sharma-devops&theme=react-dark&bg_color=0D1117&color=F7971E&line=F7971E&point=FFFFFF&hide_border=true" width="95%" />
-
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Learning Progress
 
-<div align="center">
-
-![Snake animation](https://github.com/anshu-sharma-devops/anshu-sharma-devops/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚙️ **To activate the snake:** Go to your repo → Actions tab → Enable workflows → Run the `Generate Snake` action. [Setup guide here →](https://github.com/Platane/snk)
+✔ 20+ AWS Hands-On Labs Completed
+✔ 5 Terraform Projects Completed
+✔ 5 Docker Projects Completed
+✔ 4 Jenkins Projects Completed
+✔ 3 Ansible Projects Completed
+✔ Multiple Kubernetes Deployments Completed
+✔ 10+ Projects Published on GitHub
+✔ Every project documented with README and screenshots
 
 ---
 
-## 🧠 Current Learning Roadmap
+## 🗺️ Current Learning Roadmap
 
 ```
 PHASE 1 — Cloud Foundations          ██████████████████████  ✅ COMPLETE
@@ -163,23 +148,36 @@ PHASE 1 — Cloud Foundations          █████████████�
   ├── ✅ AWS Hands-on Projects (EC2, S3, VPC, Load Balancer)
   └── ✅ Python Automation with Boto3
 
-PHASE 2 — DevOps Toolchain           ████████████░░░░░░░░░░  🔄 IN PROGRESS
-  ├── 🔄 Docker & Containerization
-  ├── 🔄 Jenkins CI/CD Pipelines
-  ├── 🔄 Terraform (Infrastructure as Code)
-  ├── 🔄 Ansible (Configuration Management)
-  └── 🔄 Kubernetes (Container Orchestration)
+PHASE 2 — DevOps Toolchain           ████████████░░░░░░░░░░  🚧 IN PROGRESS
+  ├── 🐳 Docker & Containerization
+  ├── 🔧 Jenkins CI/CD Pipelines
+  ├── 🌍 Terraform (Infrastructure as Code)
+  ├── ⚙️ Ansible (Configuration Management)
+  └── ☸️ Kubernetes (Container Orchestration)
 
-PHASE 3 — Certification & Mastery    ░░░░░░░░░░░░░░░░░░░░░░  📅 UPCOMING
-  ├── 📅 AWS Cloud Practitioner Certification
-  ├── 📅 AWS Solutions Architect – Associate
-  ├── 📅 End-to-End DevOps Pipeline Project
-  └── 📅 Kubernetes (CKA) Certification
+PHASE 3 — Certification & Mastery    ░░░░░░░░░░░░░░░░░░░░░░  🔜 UPCOMING
+  ├── 📘 AWS Cloud Practitioner Certification
+  ├── 📗 AWS Solutions Architect – Associate
+  ├── 🔄 End-to-End DevOps Pipeline Project
+  └── ☸️ Kubernetes (CKA) Certification
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 Current Focus
+
+Currently building production-style projects around:
+
+- Infrastructure as Code
+- → CI/CD Pipelines
+- → Containers
+- → Kubernetes
+- → Monitoring
+- → Cloud Native Architecture
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -189,7 +187,7 @@ PHASE 3 — Certification & Mastery    ░░░░░░░░░░░░░�
 
 <br>
 
-> 💬 *Open to DevOps internships, entry-level Cloud roles, and collaboration on infrastructure projects.*
+> 💼 *Open to DevOps internships, entry-level Cloud roles, and collaboration on infrastructure projects.*
 
 </div>
 
