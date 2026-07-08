@@ -81,6 +81,10 @@ I am a self-driven professional transitioning from a **Commerce background** int
 ## 🚀 Featured Projects
 
 <!-- PROJECTS:START -->
+<!--
+  NOTE: Links below point to actual repo slugs (not the profile URL).
+  Only keep an entry here once that repo exists and is populated with real code.
+-->
 
 ### 1. Multi-EC2 CI/CD Web Deployment Platform
 **Terraform | Jenkins | Ansible | Docker | AWS**
@@ -89,15 +93,14 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Built CI/CD pipelines using Jenkins.
 - Automated application deployment using Docker containers.
 - Published complete documentation and architecture on GitHub.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/multi-ec2-cicd-devops-project)
 
-### 2. AWS Three-Tier Capstone Architecture
-**VPC | EC2 | RDS | Route53 | Load Balancer**
-- Designed secure public and private subnet architecture.
-- Deployed application servers behind a load balancer.
-- Integrated private MySQL database layer.
-- Configured DNS routing using Route53.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
+### 2. Remote Terraform State Infrastructure
+**Terraform | S3 | DynamoDB**
+- Configured centralized Terraform state storage.
+- Implemented state locking using DynamoDB.
+- Improved collaboration and infrastructure consistency.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/terraform-remote-state)
 
 ### 3. Kubernetes Application Deployment Platform
 **Kubernetes | Docker | AWS**
@@ -105,20 +108,9 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Managed application rollout and updates.
 - Worked with pods, namespaces and scaling operations.
 - Deployed containerized applications on Kubernetes clusters.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/k8s-eks-assignment)
 
-### 4. Remote Terraform State Infrastructure
-**Terraform | S3 | DynamoDB**
-- Configured centralized Terraform state storage.
-- Implemented state locking using DynamoDB.
-- Improved collaboration and infrastructure consistency.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops)
-
-### 5. Enterprise Infrastructure Evolution Project
-**Virtualization → Cloud → DevOps → Kubernetes**
-- Long-term portfolio project representing complete infrastructure evolution.
-- Covers migration from traditional infrastructure to cloud-native platforms.
-- Includes Terraform, Jenkins, Docker, Kubernetes, monitoring and automation tooling.
+<!-- Add more entries here only once each project repo is actually built and pushed -->
 
 <!-- PROJECTS:END -->
 
