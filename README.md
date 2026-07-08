@@ -101,7 +101,7 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Deployed application servers behind a load balancer with auto scaling.
 - Integrated a private database layer for backend storage.
 - Documented full setup, architecture diagram, and troubleshooting notes.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/capstone-project-2)
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/capstone-project-2-devops-lifecycle)
 
 ### 3. Key Learning of Cloud & DevOps
 **AWS | Linux | Docker | Terraform | Jenkins | Ansible**
