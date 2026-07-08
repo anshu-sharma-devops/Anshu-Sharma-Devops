@@ -95,20 +95,20 @@ I am a self-driven professional transitioning from a **Commerce background** int
 - Published complete documentation and architecture on GitHub.
 - 🔗 [Repository Link](https://github.com/anshu-sharma-devops/multi-ec2-cicd-devops-project)
 
-### 2. Remote Terraform State Infrastructure
-**Terraform | S3 | DynamoDB**
-- Configured centralized Terraform state storage.
-- Implemented state locking using DynamoDB.
-- Improved collaboration and infrastructure consistency.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/terraform-remote-state)
+### 2. AWS Capstone Project – 2
+**VPC | EC2 | RDS | Load Balancer | Auto Scaling**
+- Designed a secure multi-tier AWS architecture with public/private subnets.
+- Deployed application servers behind a load balancer with auto scaling.
+- Integrated a private database layer for backend storage.
+- Documented full setup, architecture diagram, and troubleshooting notes.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/capstone-project-2)
 
-### 3. Kubernetes Application Deployment Platform
-**Kubernetes | Docker | AWS**
-- Created deployments and services.
-- Managed application rollout and updates.
-- Worked with pods, namespaces and scaling operations.
-- Deployed containerized applications on Kubernetes clusters.
-- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/k8s-eks-assignment)
+### 3. Key Learning of Cloud & DevOps
+**AWS | Linux | Docker | Terraform | Jenkins | Ansible**
+- Central repository documenting hands-on labs and concepts across the DevOps toolchain.
+- Organized notes, mini-projects, and troubleshooting logs by topic.
+- Serves as the flagship reference repo for the overall learning journey.
+- 🔗 [Repository Link](https://github.com/anshu-sharma-devops/key-learning-of-cloud-and-devops)
 
 <!-- Add more entries here only once each project repo is actually built and pushed -->
 
