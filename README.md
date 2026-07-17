@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" alt="Anshu Sharma — Aspiring Cloud & DevOps Engineer" width="100%" />
+<img src="./header-banner.svg" alt="Anshu Sharma — Aspiring Cloud & DevOps Engineer" width="100%" />
 
 <a href="https://github.com/anshu-sharma-devops">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&duration=3000&pause=900&color=F7971E&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+in+Progress+%F0%9F%9B%A0%EF%B8%8F;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Ansible+%7C+Kubernetes+%7C+Linux+%7C+Git;Building+Infrastructure+Through+Code;Automating%2C+Troubleshooting+and+Documenting;From+Commerce+to+Cloud+%E2%80%94+Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
@@ -456,7 +456,7 @@ I am currently looking for:
 
 *This profile is a living record of my journey from learner to professional Cloud & DevOps Engineer.*
 
-<img src="./assets/footer-banner.svg" alt="Footer" width="100%" />
+<img src="./footer-banner.svg" alt="Footer" width="100%" />
 
 </div>
 
@@ -497,4 +497,3 @@ won't appear until you do — there's no fallback card anymore, since
 the old live-card fallback was itself unreliable.
 =================================================================
 -->
-
