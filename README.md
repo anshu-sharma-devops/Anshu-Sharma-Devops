@@ -29,7 +29,8 @@ Name       : Anshu Sharma
 Role       : Aspiring Cloud & DevOps Engineer
 Location   : New Delhi, India 🇮🇳
 Background : Commerce and Operations → Cloud and DevOps (Career Pivot)
-Focus : AWS · Linux · Docker · Terraform · Jenkins · Ansible · Kubernetes · Python
+Focus      : AWS · Terraform · Jenkins · Docker · Ansible · Kubernetes
+Learning   : Python · Boto3 · Helm · Azure
 Current    : CloudCart Production-Style DevOps Platform
 Goal       : Cloud/DevOps internship, trainee or junior position
 Mindset    : Automate first. Build real. Document everything.
@@ -43,7 +44,7 @@ I am a self-driven professional transitioning from a **commerce and operations b
 - 🐳 Packaging applications with Docker and pushing to Amazon ECR
 - ☸️ Deploying and troubleshooting Kubernetes workloads (kubeadm and EKS)
 - ⚙️ Configuring Linux servers with Ansible
-- 🐍 Automating cloud workflows with Python (Boto3)
+- 🐍 Currently learning Python and Boto3 for AWS automation
 - 📝 Publishing screenshots, architecture diagrams, troubleshooting notes and cleanup instructions
 
 <div align="center">
@@ -76,7 +77,7 @@ I am a self-driven professional transitioning from a **commerce and operations b
 ![Helm](https://img.shields.io/badge/Helm-Package_Manager-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Currently_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🖥️ Systems & Version Control
@@ -376,7 +377,7 @@ PHASE 1 — Cloud Foundations          █████████████�
   ├── ✅ Linux Fundamentals & Bash Scripting
   ├── ✅ AWS Core Services (EC2, S3, VPC, IAM, ELB)
   ├── ✅ AWS Hands-on Projects (EC2, S3, VPC, Load Balancer)
-  └── ✅ Python Automation with Boto3
+  └── 🚧 Python and Boto3 for AWS automation
 
 PHASE 2 — DevOps Toolchain           ██████████████████████  ✅ COMPLETE
   ├── ✅ Docker & Containerization
