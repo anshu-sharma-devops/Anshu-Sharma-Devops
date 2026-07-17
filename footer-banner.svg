@@ -1,0 +1,17 @@
+<svg width="100%" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Decorative footer banner</title>
+<defs>
+<linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0d1b2a"/>
+<stop offset="50%" stop-color="#12212e"/>
+<stop offset="100%" stop-color="#0d1b2a"/>
+</linearGradient>
+<linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#844FBA"/>
+<stop offset="100%" stop-color="#F7971E"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="120" fill="url(#bg2)"/>
+<path d="M0,50 C150,80 300,20 450,45 C600,70 750,30 900,55 C1050,80 1150,40 1200,55 L1200,0 L0,0 Z" fill="url(#wave2)" opacity="0.9"/>
+<path d="M0,35 C150,60 300,10 450,30 C600,50 750,15 900,35 C1050,55 1150,25 1200,35 L1200,0 L0,0 Z" fill="#0d1b2a" opacity="0.6"/>
+</svg>
