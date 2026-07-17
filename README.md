@@ -29,7 +29,7 @@ Name       : Anshu Sharma
 Role       : Aspiring Cloud & DevOps Engineer
 Location   : New Delhi, India 🇮🇳
 Background : Commerce and Operations → Cloud and DevOps (Career Pivot)
-Focus      : AWS · Linux · Docker · Terraform · Jenkins · Ansible · Kubernetes · Python
+Focus : AWS · Linux · Docker · Terraform · Jenkins · Ansible · Kubernetes · Python
 Current    : CloudCart Production-Style DevOps Platform
 Goal       : Cloud/DevOps internship, trainee or junior position
 Mindset    : Automate first. Build real. Document everything.
@@ -200,18 +200,20 @@ A three-server AWS environment with Jenkins, testing and production systems.
 
 ### ☸️ Capstone Project 2
 
-A four-instance AWS environment containing Jenkins and a kubeadm Kubernetes cluster — plus a secure multi-tier AWS architecture with public/private subnets.
+A four-instance AWS environment containing Jenkins and a kubeadm Kubernetes cluster.
 
 **Architecture:**
-- One control-plane node, two worker nodes
-- Calico networking
-- Amazon ECR images
-- Kubernetes Deployment + NodePort Service
-- Application servers behind a Load Balancer with Auto Scaling
-- Private RDS database layer
+
+- One Jenkins EC2 instance
+- One Kubernetes control-plane node
+- Two Kubernetes worker nodes
+- Calico container networking
+- Amazon ECR container images
+- Kubernetes Deployment with two replicas
+- NodePort Service on port `30008`
+- Troubleshooting of `NotReady`, `CrashLoopBackOff` and image-pull failures
 
 [![Repository](https://img.shields.io/badge/View_Repository-Capstone_2-326CE5?style=for-the-badge&logo=github)](https://github.com/anshu-sharma-devops/capstone-project-2-devops-lifecycle)
-
 </td>
 </tr>
 </table>
