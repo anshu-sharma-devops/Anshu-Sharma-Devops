@@ -313,27 +313,8 @@ Cloud Native Platforms
      rate-limit / "Failed to retrieve contributions" error. -->
 <img width="95%" src="https://raw.githubusercontent.com/anshu-sharma-devops/anshu-sharma-devops/output/github-metrics.svg" alt="GitHub Metrics" />
 
-<br><br>
-
-<details>
-<summary>Prefer the live cards instead? (click to expand — less reliable)</summary>
-
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=default&hide_border=true&cache_seconds=86400">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</picture>
-
-</details>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anshu-sharma-devops&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E">
@@ -511,8 +492,9 @@ Do this once to turn it on:
    schedule in metrics.yml), keeping the SVG up to date with zero
    live API calls on page load — so it can't rate-limit again.
 
-If you'd rather not set up a token right now, the collapsible
-"Prefer the live cards instead?" section further up still shows the
-original Vercel-hosted cards as a fallback.
+If you'd rather not set up a token right now, the metrics image just
+won't appear until you do — there's no fallback card anymore, since
+the old live-card fallback was itself unreliable.
 =================================================================
 -->
+
