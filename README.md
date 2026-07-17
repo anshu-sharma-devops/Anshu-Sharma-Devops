@@ -2,6 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Anshu%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=55)
 
+<!-- Fallback title: shows if the capsule-render banner above fails to load -->
+# Anshu Sharma
+### Aspiring Cloud & DevOps Engineer
+
 <a href="https://github.com/anshu-sharma-devops">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=900&color=F7971E&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+in+Progress+%F0%9F%9B%A0%EF%B8%8F;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Ansible+%7C+Kubernetes+%7C+Linux+%7C+Git;Building+Infrastructure+Through+Code;Automating%2C+Troubleshooting+and+Documenting;From+Commerce+to+Cloud+%E2%80%94+Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -315,22 +319,22 @@ Cloud Native Platforms
 
 <!-- Theme-adaptive stats: dark card on dark theme, light card on light theme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshu-sharma-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=default&hide_border=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=default&hide_border=true&cache_seconds=86400">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-sharma-devops&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </picture>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=anshu-sharma-devops&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=anshu-sharma-devops&theme=default&hide_border=true&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-sharma-devops&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anshu-sharma-devops&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=anshu-sharma-devops&theme=default&hide_border=true&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E">
+  <img width="80%" src="https://streak-stats.demolab.com/?user=anshu-sharma-devops&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7971E&ring=F7971E&fire=FF6B35&currStreakLabel=F7971E" alt="GitHub Streak" />
 </picture>
 
 <br><br>
