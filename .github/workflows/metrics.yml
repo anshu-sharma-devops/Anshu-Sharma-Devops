@@ -39,12 +39,10 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_limit: 8
 
-          # --- Contribution habits / activity chart ---
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: compact
+          # NOTE: plugin_habits was removed — it performs much heavier
+          # per-repo queries and threw "Unexpected error" on this account.
+          # Everything else (header, activity, community, repos, languages)
+          # works reliably without it.
 
           # --- Misc ---
           config_timezone: Asia/Kolkata
