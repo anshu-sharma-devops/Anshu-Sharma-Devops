@@ -1,23 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Anshu%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=55)
-
-<!-- Fallback title: shows if the capsule-render banner above fails to load -->
-# Anshu Sharma
-### Aspiring Cloud & DevOps Engineer
+<img src="./assets/header-banner.svg" alt="Anshu Sharma — Aspiring Cloud & DevOps Engineer" width="100%" />
 
 <a href="https://github.com/anshu-sharma-devops">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=900&color=F7971E&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+in+Progress+%F0%9F%9B%A0%EF%B8%8F;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Ansible+%7C+Kubernetes+%7C+Linux+%7C+Git;Building+Infrastructure+Through+Code;Automating%2C+Troubleshooting+and+Documenting;From+Commerce+to+Cloud+%E2%80%94+Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&duration=3000&pause=900&color=F7971E&center=true&vCenter=true&width=750&lines=Cloud+%26+DevOps+Engineer+in+Progress+%F0%9F%9B%A0%EF%B8%8F;AWS+%7C+Terraform+%7C+Jenkins+%7C+Docker;Ansible+%7C+Kubernetes+%7C+Linux+%7C+Git;Building+Infrastructure+Through+Code;Automating%2C+Troubleshooting+and+Documenting;From+Commerce+to+Cloud+%E2%80%94+Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- Theme-adaptive divider: renders on light & dark GitHub themes -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=900">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&width=900">
-  <img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=900">
-</picture>
+<hr style="height:2px;border:none;background:linear-gradient(90deg,#F7971E,#844FBA);margin:8px 0;" />
 
 <br>
 
@@ -484,7 +475,7 @@ I am currently looking for:
 
 *This profile is a living record of my journey from learner to professional Cloud & DevOps Engineer.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+<img src="./assets/footer-banner.svg" alt="Footer" width="100%" />
 
 </div>
 
